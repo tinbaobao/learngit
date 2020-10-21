@@ -3,3 +3,4 @@ Git is free software.
 sorry
 Yes
 NO
+Git tracks changes.
